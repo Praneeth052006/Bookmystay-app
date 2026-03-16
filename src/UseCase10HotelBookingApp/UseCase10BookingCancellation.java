@@ -1,6 +1,6 @@
-package UseCase9HotelBookingApp;
+package UseCase10HotelBookingApp;
 
-public class UseCase9ErrorHandlingValidation {
+public class UseCase10BookingCancellation {
 
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package UseCase9HotelBookingApp;
+package UseCase10HotelBookingApp;
 
 import java.util.LinkedList;
 import java.util.Queue;

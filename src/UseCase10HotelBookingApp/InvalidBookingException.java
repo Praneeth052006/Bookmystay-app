@@ -1,4 +1,4 @@
-package UseCase9HotelBookingApp;
+package UseCase10HotelBookingApp;
 
 public class InvalidBookingException extends Exception {
 
