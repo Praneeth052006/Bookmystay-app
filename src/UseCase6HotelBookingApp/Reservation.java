@@ -1,4 +1,4 @@
-package UseCase5HotelBookingApp;
+package UseCase6HotelBookingApp;
 
 public class Reservation {
 
@@ -16,9 +16,5 @@ public class Reservation {
 
     public String getRoomType() {
         return roomType;
-    }
-
-    public void displayReservation() {
-        System.out.println("Guest: " + guestName + " requested " + roomType);
     }
 }

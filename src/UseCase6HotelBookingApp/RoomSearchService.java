@@ -1,4 +1,4 @@
-package UseCase5HotelBookingApp;
+package UseCase6HotelBookingApp;
 
 
 import java.util.List;
