@@ -1,4 +1,4 @@
-package UseCase2HotelBookingApp;
+package UseCase3HotelBookingApp;
 
 class SingleRoom extends Room {
 
