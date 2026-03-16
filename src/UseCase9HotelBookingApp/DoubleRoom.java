@@ -1,4 +1,4 @@
-package UseCase8HotelBookingApp;
+package UseCase9HotelBookingApp;
 
 public class DoubleRoom extends Room {
 
