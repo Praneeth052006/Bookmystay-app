@@ -1,4 +1,4 @@
-package UseCase3HotelBookingApp;
+package UseCase4HotelBookingApp;
 
 import java.util.HashMap;
 
