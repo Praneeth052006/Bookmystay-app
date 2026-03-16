@@ -1,4 +1,4 @@
-package UseCase4HotelBookingApp;
+package UseCase5HotelBookingApp;
 
 public abstract class Room {
 
