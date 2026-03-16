@@ -1,4 +1,4 @@
-package UseCase6HotelBookingApp;
+package UseCase7HotelBookingApp;
 
 public class Reservation {
 
